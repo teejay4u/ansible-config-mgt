@@ -108,7 +108,6 @@
 
 4. Refactoring Ansible code 
     - created site.yml file and updated it with the import command 
-    - 
     ---
      hosts: all
      import_playbook: ../static-assignments/common.yml
