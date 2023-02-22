@@ -109,7 +109,7 @@
 4. Refactoring Ansible code 
     - created site.yml file and updated it with the import command 
     ---
-     hosts: all
+    - hosts: all
      import_playbook: ../static-assignments/common.yml
     - configured a task to remove wireshark from target servers if already installed by creating static-assignments directory and creating common-del.yml file and updating it with the code :
 ![](Prj%2011-PNGs/Prj-12-PNGs/12.%20using%20import_playbook%20command.png)
