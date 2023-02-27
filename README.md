@@ -1,4 +1,4 @@
->>## Project 11 and 12 -ansible-config-mnt
+>>## Project 11 and 12 -ansible-config-mnt.
 
 >###  Project Description
 - Automation of previous project 7-10  
